@@ -1,0 +1,10 @@
+* cl-ksuid
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/bob.denver.co/cl-ksuid.git   |
+| commit  | {"messa  |
+| systems | cl-ksuid |
+|---------+-------------------------------------------|
+
